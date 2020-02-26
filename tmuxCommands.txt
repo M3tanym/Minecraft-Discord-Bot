@@ -1,0 +1,21 @@
+because i have no brain
+To list sessions:
+
+tmux list-sessions
+
+To create a new session:
+
+tmux new -s NAME -d
+
+To attach to an existing session
+
+tmux attach -t NAME
+
+To exit from within a session:
+
+^b d
+
+To quit a session:
+
+attach first, then type 'exit'
+

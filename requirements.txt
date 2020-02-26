@@ -1,0 +1,4 @@
+awscli==1.16.142
+boto3==1.9.132
+discord==1.0.1
+mcstatus==2.2
