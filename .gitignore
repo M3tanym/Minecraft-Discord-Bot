@@ -1,0 +1,4 @@
+venv/
+AWSMinecraftKey.pem
+config.txt
+doMinecraft.sh
